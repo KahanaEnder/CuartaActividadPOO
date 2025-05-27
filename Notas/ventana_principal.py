@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from Notas import Notas
+from notas import Notas
 
 class VentanaPrincipal:
     """

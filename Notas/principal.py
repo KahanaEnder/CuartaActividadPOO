@@ -1,4 +1,4 @@
-from Notas import VentanaPrincipal
+from notas import VentanaPrincipal
 
 class Principal:
     """
